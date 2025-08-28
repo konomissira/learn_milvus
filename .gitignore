@@ -5,8 +5,6 @@ __pycache__/
 *.log
 .ipynb_checkpoints
 
-data/
-
 .venv/
 .DS_Store
 
