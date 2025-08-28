@@ -9,3 +9,5 @@ data/
 
 .venv/
 .DS_Store
+
+volumes/
